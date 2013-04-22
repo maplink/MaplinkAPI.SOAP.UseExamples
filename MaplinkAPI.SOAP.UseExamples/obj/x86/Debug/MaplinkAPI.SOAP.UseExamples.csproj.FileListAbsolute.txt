@@ -1,0 +1,12 @@
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.UseExamples\bin\Debug\MaplinkAPI.SOAP.UseExamples.exe.config
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.UseExamples\bin\Debug\MaplinkAPI.SOAP.UseExamples.exe
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.UseExamples\bin\Debug\MaplinkAPI.SOAP.UseExamples.pdb
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.UseExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.UseExamples\obj\x86\Debug\MaplinkAPI.SOAP.UseExamples.exe
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.UseExamples\obj\x86\Debug\MaplinkAPI.SOAP.UseExamples.pdb
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.SOAP.UseExamples\bin\Debug\MaplinkAPI.SOAP.UseExamples.exe.config
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.SOAP.UseExamples\bin\Debug\MaplinkAPI.SOAP.UseExamples.exe
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.SOAP.UseExamples\bin\Debug\MaplinkAPI.SOAP.UseExamples.pdb
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.SOAP.UseExamples\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.SOAP.UseExamples\obj\x86\Debug\MaplinkAPI.SOAP.UseExamples.exe
+E:\Nova pasta (2)\MaplinkAPI.UseExamples\MaplinkAPI.SOAP.UseExamples\obj\x86\Debug\MaplinkAPI.SOAP.UseExamples.pdb
