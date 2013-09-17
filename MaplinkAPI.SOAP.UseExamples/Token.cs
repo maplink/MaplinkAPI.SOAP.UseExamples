@@ -2,19 +2,19 @@
 
 namespace MaplinkAPI.SOAP.UseExamples
 {
-    public class Token
+    public static class Token
     {
-        private string _token;
+        private static string _token;
 
-        public string Value
+        public static string Value
         {
             get
             {
-                if (string.IsNullOrEmpty(_token))
-                {
-                    var tokenNotFound = "TokenNotFound";
-                    _token = ConfigurationManager.AppSettings["token"] ?? tokenNotFound;
-                }
+                if (!string.IsNullOrEmpty(_token)) 
+                    return _token;
+
+                const string tokenNotFound = "TokenNotFound";
+                _token = ConfigurationManager.AppSettings["token"] ?? tokenNotFound;
 
                 return _token;
             }
